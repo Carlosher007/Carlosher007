@@ -1,6 +1,6 @@
 # Carlos Andrés Hernández
 
-! [Foto] (/foto.JPG)
+! [Foto] (foto.JPG)
 
 _System Engineering Student  (Second Semester) in Universidad del Valle, Cali_ <br>
 
