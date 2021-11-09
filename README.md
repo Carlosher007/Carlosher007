@@ -1,6 +1,6 @@
 # Carlos Andrés Hernández
 
-! [Imagen de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+! [Foto] (/foto.JPG)
 
 _System Engineering Student  (Second Semester) in Universidad del Valle, Cali_ <br>
 
