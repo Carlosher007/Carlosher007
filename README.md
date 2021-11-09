@@ -45,7 +45,8 @@ Systems engineering student with knowledge of system, informatic and programming
 ## 🗞 Proyects
 
 _This section is for my projects in programming._
-**Juego No Generico de Snake | JNGS ** [Link Project](https://jngds-1.josemanuelp2005.repl.co/) [Link Github](https://github.com/Br4z/JNGDS)  _(2021)_ <br>
+<br>
+Juego No Generico de Snake | JNGS  [Link Project](https://jngds-1.josemanuelp2005.repl.co/) [Link Github](https://github.com/Br4z/JNGDS)  _(2021)_ <br>
 <img align="left" alt="Logo" src="https://i.imgur.com/q4hmT9B.png" height="128"><br>
 This project is about a game, based in snake game,where my team and I had to re-create this game by adding new features. All with JavaScript language, P5.js, funtional light, canvas and functional programming
 <br><br><br>
@@ -55,4 +56,4 @@ This project is about a game, based in snake game,where my team and I had to re-
   - [Brandom](https://github.com/Br4z)
   - [Jose Manuel](https://github.com/JoseManuel2005)
 <br><br>
-<br><br>
+
