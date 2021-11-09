@@ -42,7 +42,7 @@ Systems engineering student with knowledge of system, informatic and programming
   - Git and Github
   - Visual Studio Code
 
-<br><br>
+<br>
 
 ## 🗞 Proyects
 
