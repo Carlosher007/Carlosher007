@@ -2,25 +2,10 @@
 
 _System Engineering Student  (Second Semester) in Universidad del Valle, Cali_ <br>
 
-[Email](mailto:carlosheragu2003@gmail.com.com)  / [LinkedIn](www.linkedin.com/in/CarlosHerAgu) / [GitHub](https://github.com/Carlosher007) / [CV](https://github.com/Carlosher007/Carlosher007/blob/gh-pages/CV%20English.pdf)
+[Email](mailto:carlosheragu2003@gmail.com.com)  / [LinkedIn](www.linkedin.com/in/CarlosHerAgu) / [GitHub](https://github.com/Carlosher007)
 
 ## 👩🏼‍💻 About Me
 Systems engineering student with knowledge of system, informatic and programming, seeking to leverage his skills and knowledge to help a company or organization. Committed, responsible and good to work in team.
-<br><br>
-
-## 👩🏼‍🎓 Education
-
-**7-months intensive coding course in MinTic 2022** focused on programming<br>
-[MisionTic 2022](https://www.misiontic2022.gov.co/portal/) - Virtual _(May 2021 - Nov 2021)_ <br>
-
-**Primary Education** basic studies<br>
-[Isabell de Castilla](https://carbonellcali.com/isabel.php) - Cali, Colombia _(Jan 2010 - Dec 2015)_ <br>
-
-**High School** basic studies<br>
-[I.E.T.I Jose Maria Carbonell](https://carbonellcali.com/) - Cali, Colombia _(Jan 2015 - Dec 2020)_ <br>
-
-**University Education** System Engineering<br>
-[Universidad del Valle](https://www.univalle.edu.co/) - Cali, Colombia _(Feb 2021 - In Progress)_ 
 <br><br>
 
 ## 💬 Languages
