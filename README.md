@@ -2,7 +2,7 @@
 
 _System Engineering Student  (Second Semester) in Universidad del Valle, Cali_ <br>
 
-[Email](mailto:carlosheragu2003@gmail.com.com)  / [LinkedIn](www.linkedin.com/in/CarlosHerAgu) / [GitHub](https://github.com/Carlosher007)
+[Email](mailto:carlosheragu2003@gmail.com.com)  / [LinkedIn](https://www.linkedin.com/in/carlosheragu/) / [GitHub](https://github.com/Carlosher007)
 
 ## 👩🏼‍💻 About Me
 Systems engineering student with knowledge of system, informatic and programming, seeking to leverage his skills and knowledge to help a company or organization. Committed, responsible and good to work in team.
